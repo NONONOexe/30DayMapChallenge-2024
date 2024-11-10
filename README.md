@@ -35,3 +35,7 @@
 ## 9. AI Only
 
 ![AI Only](plot/09-ai-only.png)
+
+## 10. Pen and Paper
+
+![Pen and Paper](plot/10-pen-and-paper.png)
