@@ -55,3 +55,7 @@
 ## 14. A World Map
 
 ![A World Map](plot/14-a-world-map.png)
+
+## 15. My Data
+
+![My Data](plot/15-my-data.png)
