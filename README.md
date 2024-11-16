@@ -51,3 +51,7 @@
 ## 13. A New Tool
 
 ![A New Tool](plot/13-a-new-tool.png)
+
+## 14. A World Map
+
+![A World Map](plot/14-a-world-map.png)
