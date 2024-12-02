@@ -63,3 +63,7 @@
 ## 16. Choropleth
 
 ![Choropleth](plot/16-choropleth.png)
+
+## 17. Collaborative map
+
+![Collaborative map](plot/17-collaborative-map.png)
