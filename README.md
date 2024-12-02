@@ -67,3 +67,7 @@
 ## 17. Collaborative map
 
 ![Collaborative map](plot/17-collaborative-map.png)
+
+## 18. 3D
+
+![3D](plot/18-3d.png)
