@@ -75,3 +75,7 @@
 ## 19. Typography
 
 ![Typography](plot/19-typography.png)
+
+## 20. OpenStreetMap
+
+![OpenStreetMap](plot/20-openstreetmap.png)
