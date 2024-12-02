@@ -59,3 +59,7 @@
 ## 15. My Data
 
 ![My Data](plot/15-my-data.png)
+
+## 16. Choropleth
+
+![Choropleth](plot/16-choropleth.png)
