@@ -71,3 +71,7 @@
 ## 18. 3D
 
 ![3D](plot/18-3d.png)
+
+## 19. Typography
+
+![Typography](plot/19-typography.png)
