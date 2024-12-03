@@ -79,3 +79,7 @@
 ## 20. OpenStreetMap
 
 ![OpenStreetMap](plot/20-openstreetmap.png)
+
+## 21. Conflict
+
+![Conflict](plot/21-conflict.png)
