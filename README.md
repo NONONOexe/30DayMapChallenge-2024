@@ -87,3 +87,7 @@
 ## 22. 2 Colours
 
 ![2 Colours](plot/22-2-colours.png)
+
+## 23. Memory
+
+![Memory](plot/23-memory.png)
