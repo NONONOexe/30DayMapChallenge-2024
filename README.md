@@ -83,3 +83,7 @@
 ## 21. Conflict
 
 ![Conflict](plot/21-conflict.png)
+
+## 22. 2 Colours
+
+![2 Colours](plot/22-2-colours.png)
