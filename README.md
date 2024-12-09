@@ -91,3 +91,7 @@
 ## 23. Memory
 
 ![Memory](plot/23-memory.png)
+
+## 24. Only circular shapes
+
+![Only circular shapes](plot/24-only-circular-shapes.png)
