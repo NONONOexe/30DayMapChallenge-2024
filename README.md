@@ -99,3 +99,7 @@
 ## 25. Heat
 
 ![Heat](plot/25-heat.png)
+
+## 26. Map projections
+
+![Map projections](plot/26-map-projections.png)
