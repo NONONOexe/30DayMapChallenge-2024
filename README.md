@@ -107,3 +107,7 @@
 ## 27. Micromapping
 
 ![Micromapping](plot/27-micromapping.png)
+
+## 28. The blue planet
+
+![The blue planet](plot/28-the-blue-planet.gif)
