@@ -103,3 +103,7 @@
 ## 26. Map projections
 
 ![Map projections](plot/26-map-projections.png)
+
+## 27. Micromapping
+
+![Micromapping](plot/27-micromapping.png)
