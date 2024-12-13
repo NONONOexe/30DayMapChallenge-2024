@@ -18,11 +18,12 @@ island_centroid <- getbb(
 centroid_coordinates <- st_coordinates(island_centroid)
 
 # Obtain OpenStreetMap data around the centroid
-island_data <- opq_around(
-  lon    = centroid_coordinates[1],
-  lat    = centroid_coordinates[2],
-  radius = 30
-) |>
+island_data <-
+  opq_around(
+    lon    = centroid_coordinates[1],
+    lat    = centroid_coordinates[2],
+    radius = 30
+  ) |>
   osmdata_sf()
 
 # Extract relevant OpenStreetMap data
@@ -47,12 +48,13 @@ island_boundary <- island_centroid |>
   st_as_sfc()
 
 # Retreive elevation data for the buffered area
-elevation_data <- get_elev_raster(
-  locations = st_sf(island_boundary),
-  z         = 14,
-  src       = "aws",
-  clip      = "locations"
-) |>
+elevation_data <-
+  get_elev_raster(
+    locations = st_sf(island_boundary),
+    z         = 14,
+    src       = "aws",
+    clip      = "locations"
+  ) |>
   as.data.frame(xy = TRUE)
 
 # Rename elevation column for clarity
