@@ -115,3 +115,7 @@
 ## 29. Overture
 
 ![Overture](plot/29-overture.png)
+
+## 30. The final map
+
+![The final map](plot/30-the-final-map.png)
